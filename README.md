@@ -1,6 +1,6 @@
 # Weather and AQI Correlation Analysis in Da Nang
 
-This project is a collaborative effort between myself and the owner of this repository. The main goal is to analyze the correlation between various weather parameters and the Air Quality Index (AQI) in the Da Nang region and to develop predictions based on this analysis.
+This project is a collaborative effort among 4 team members, including the owner of this repository, me, and two other contributors. The main goal is to analyze the correlation between various weather parameters and the Air Quality Index (AQI) in the Da Nang region and to develop predictions based on this analysis.
 
 ## Objectives
 - Understand the relationships between weather factors (e.g., temperature, humidity, wind speed) and AQI levels specific to Da Nang.
@@ -13,5 +13,8 @@ This project is a collaborative effort between myself and the owner of this repo
 4. **Evaluation**: Evaluate the performance and accuracy of the models for practical application in Da Nang.
 
 ## How to Contribute
-If you'd like to contribute, feel free to fork the repository and submit a pull request. For any questions, please reach out to us directly via GitHub.
+If you'd like to contribute, feel free to fork the repository and submit a pull request. For any questions, please reach out to any of the team members directly via GitHub.
+
+---
+
 
